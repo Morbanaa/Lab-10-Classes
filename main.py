@@ -19,3 +19,14 @@ class PersonalInfo():
         print(f"Phone: {self.phone_number}")
 
 
+def main():
+    collect_info()
+
+
+def collect_info():
+    pass
+
+
+
+if __name__ == "__main":
+    main()
